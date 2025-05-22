@@ -30,5 +30,5 @@ A basic Python OOP project to manage students and their grades. This project is 
 ```bash
 python main.py or uv run main.py
 
-```leave a star ⭐...
+leave a star ⭐...
 
